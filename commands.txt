@@ -1,0 +1,19 @@
+#COMMONLY USED COMMANDS
+Grep
+Awk
+Curl
+Tar
+Unzip
+Ps -aef
+Kill
+Useradd
+Groupadd
+Yum
+Systemctl
+Chmod
+Chown
+Ip
+Netstat
+DF
+DU
+TELNET
